@@ -1,0 +1,40 @@
+{
+  "Groups": [
+    {
+      "Name": "Main",
+      "DisplayName": "Mod Options",
+      "Elements": [
+        {
+        "Name": "Options",
+        "DisplayName": "Sonig Choice",
+        "Description": [
+          "Options for the mod! You can choose which song you want to play over Green Hill."
+        ],
+        "Type": "Config",
+        "MinValue": null,
+        "MaxValue": null,
+        "DefaultValue": "WindmillIsle"
+        }
+      ]
+    }
+  ],
+  "Enums": {
+    "Config": [
+      {
+        "DisplayName": "Windmill Isle",
+        "Value": "WindmillIsle",
+        "Description": [
+          "Loads the files to play Windmill Isle Act 2."
+        ]
+      },
+      {
+        "DisplayName": "Jungle Joyride",
+        "Value": "JungleJoyride",
+        "Description": [
+          "Loads the files to play Jungle Joyride."
+        ]
+      }
+    ]
+  },
+  "IniFile": "mod.ini"
+}
