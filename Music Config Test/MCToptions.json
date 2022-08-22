@@ -5,7 +5,7 @@
       "DisplayName": "Mod Options",
       "Elements": [
         {
-        "Name": "Options",
+        "Name": "IncludeDir0",
         "DisplayName": "Sonig Choice",
         "Description": [
           "Options for the mod! You can choose which song you want to play over Green Hill."
