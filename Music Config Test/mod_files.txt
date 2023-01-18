@@ -8,3 +8,5 @@ add /Sound/bgm_stg_myk.csb
 add /Sound/bgm_stg_sea.cpk
 add /Sound/bgm_stg_sea.csb
 add mod.ini
+add mod.ini
+add birthday grey text square.png
