@@ -1,3 +1,6 @@
+## Music Config Test Mod Rev 1.5-T
+Patches:
+- Removed backslashes from directories in mod_files.ini so files can actually download
 ## Music Config Test Mod Rev 1.4-T
 Patches:
 - Changed raw.githubusercontent.com to standard github.com so larger files can download.
