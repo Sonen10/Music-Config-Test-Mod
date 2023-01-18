@@ -1,3 +1,6 @@
+## Music Config Test Mod Rev 1.3-T
+Patches:
+- Added an all new file to ensure updates actually add stuff!
 ## Music Config Test Mod Rev 1.2-T
 Patches:
 - Patched the SceneEffect for the Jungle Joyride #ghz200.ar.00 to ensure it isn't the same one as in Crisis City. Whoops!
