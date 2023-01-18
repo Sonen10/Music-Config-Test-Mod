@@ -3,10 +3,5 @@ add /WindmillIsle/disk/bb/#ghz200.arl
 add MCToptions.json
 add /JungleJoyride/disk/bb/#ghz200.ar.00
 add /JungleJoyride/disk/bb/#ghz200.arl
-add /Sound/bgm_stg_myk.cpk
-add /Sound/bgm_stg_myk.csb
-add /Sound/bgm_stg_sea.cpk
-add /Sound/bgm_stg_sea.csb
 add mod.ini
-add mod.ini
-add birthday grey text square.png
+add mod_version.ini
