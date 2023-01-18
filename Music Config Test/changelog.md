@@ -1,3 +1,6 @@
+## Music Config Test Mod Rev 1.4-T
+Patches:
+- Changed raw.githubusercontent.com to standard github.com so larger files can download.
 ## Music Config Test Mod Rev 1.3-T
 Patches:
 - Added an all new file to ensure updates actually add stuff!
