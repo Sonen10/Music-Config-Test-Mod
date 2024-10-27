@@ -1,5 +1,13 @@
 add WindmillIsle/disk/bb/#ghz200.ar.00
 add WindmillIsle/disk/bb/#ghz200.arl
+add WindmillIsle/disk/bb2/+cte103.ar.00
+add WindmillIsle/disk/bb2/+cte103.arl
+add WindmillIsle/disk/bb2/+evRouge.ar.00
+add WindmillIsle/disk/bb2/+evRouge.arl
+add WindmillIsle/disk/bb2/+rouge.ar.00
+add WindmillIsle/disk/bb2/+rouge.arl
+add WindmillIsle/disk/bb2/+ssh201.ar.00
+add WindmillIsle/disk/bb2/+ssh201.arl
 add MCToptions.json
 add JungleJoyride/disk/bb/#ghz200.ar.00
 add JungleJoyride/disk/bb/#ghz200.arl
